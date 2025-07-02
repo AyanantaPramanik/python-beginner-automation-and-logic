@@ -46,3 +46,9 @@ Calculate Body Mass Index (BMI) based on user input and classify the result into
 - Beginner automation tasks
 
 ---
+
+## 📓 Jupyter Notebooks
+
+- [Automatic File Sorter.ipynb](notebooks/Automatic%20File%20Sorter.ipynb)
+- [BMI Calculator.ipynb](notebooks/BMI%20Calculator.ipynb)
+
